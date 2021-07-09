@@ -1,2 +1,2 @@
-modified file1
+first line modified
 hello world!
