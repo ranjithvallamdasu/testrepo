@@ -1,2 +1,4 @@
 modified file1
 hello world!
+added third line
+and fourth line
